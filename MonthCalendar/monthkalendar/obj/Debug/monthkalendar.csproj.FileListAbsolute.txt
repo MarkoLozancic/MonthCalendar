@@ -1,0 +1,9 @@
+C:\Users\ucenik\source\repos\monthkalendar\monthkalendar\bin\Debug\monthkalendar.exe.config
+C:\Users\ucenik\source\repos\monthkalendar\monthkalendar\bin\Debug\monthkalendar.exe
+C:\Users\ucenik\source\repos\monthkalendar\monthkalendar\bin\Debug\monthkalendar.pdb
+C:\Users\ucenik\source\repos\monthkalendar\monthkalendar\obj\Debug\monthkalendar.Form1.resources
+C:\Users\ucenik\source\repos\monthkalendar\monthkalendar\obj\Debug\monthkalendar.Properties.Resources.resources
+C:\Users\ucenik\source\repos\monthkalendar\monthkalendar\obj\Debug\monthkalendar.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\monthkalendar\monthkalendar\obj\Debug\monthkalendar.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\monthkalendar\monthkalendar\obj\Debug\monthkalendar.exe
+C:\Users\ucenik\source\repos\monthkalendar\monthkalendar\obj\Debug\monthkalendar.pdb
